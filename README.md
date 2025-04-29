@@ -1,6 +1,6 @@
 # Estudo de Listas, Filas e Pilhas
 
-Este repositório é dedicado às atividades desenvolvidas na disciplina **Estrutura de Dados I**.  
+Este repositório é dedicado às atividades passadas na disciplina **Estrutura de Dados I**.  
 
 Os exercícios aqui desenvolvidos abordam os principais conceitos relacionados a **listas**, **filas** e **pilhas**, com foco na implementação e aplicação dessas estruturas utilizando a linguagem de programação **Python**.
 
